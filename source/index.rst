@@ -54,7 +54,7 @@ Course requirements
 
 * It is OK to run your program on someone else's input data file, and compare outputs to see if you get the same results. However, it is not OK to share programs or to get someone else to debug your program. A key part of the course is being able to write and debug your own program.
 
-* Homework assignments should be turned in using the Catalyst Tools Dropbox.
+* Homework assignments should be turned in using the `Catalyst Tools Dropbox`_. Please submit your code along with your answers.
 
 Examinations
 ---------------
@@ -102,9 +102,13 @@ Tue, May 30      Optimization methods
 Thur, June 1     Nucleic acid structure           Homework 10
 ================ ================================ ================= =========================
 
+How to submit homeworks
+------------------------
+Submit homeworks to the `Catalyst Tools Dropbox`_. Please submit your code along with your answers.
 
 .. _`Homework 1`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#hw1
 .. _`Homework 2`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#hw2
 .. _`Transcription factor binding`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
 .. _`Functional element discovery`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
 .. _`Chromatin 3D modeling`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
+.. _`Catalyst Tools Dropbox`: https://catalyst.uw.edu/collectit/dropbox/summary/jdbloom/40039
