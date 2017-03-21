@@ -67,37 +67,44 @@ Course grade
 Class schedule
 ---------------
 
-================ ============================= ================= =========================
-Date             Topic                         Homework assigned Reading                    
-================ ============================= ================= =========================
+================ ================================ ================= =========================
+Date             Topic                            Homework assigned Reading                    
+================ ================================ ================= =========================
 *Max Libbrecht: Gene regulation & epigenomics* 
-------------------------------------------------------------------------------------------
-Tue, March 28    Transcription factor binding                    
-Thur, March 30   Transcription factor binding  Homework 1        
-Tue, April 4     Functional element discovery
-Thur, April 6    Chromatin 3D modeling         Homework 2
+---------------------------------------------------------------------------------------------
+Tue, March 28    `Transcription factor binding`_                    
+Thur, March 30   `Transcription factor binding`_  `Homework 1`_        
+Tue, April 4     `Functional element discovery`_
+Thur, April 6    `Chromatin 3D modeling`_         `Homework 2`_
 *Yi Yin: Bayesian statistics*
-------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 Tue, April 11    Intro to Bayesian stats
-Thur, April 13   Gibbs sampling                Homework 3
+Thur, April 13   Gibbs sampling                   Homework 3
 Tue, April 18    Metropolis-Hastings
-Thur, April 20   Bayesian linear models        Homework 4
+Thur, April 20   Bayesian linear models           Homework 4
 *Adrian Verster: analysis of the microbiome*
-------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 Tue, April 25    16S and microbial abundance
-Thur, April 27   Comparing microbiomes         Homework 5
+Thur, April 27   Comparing microbiomes            Homework 5
 Tue, May 2       Strain variation
-Thur, May 4      Analysis of metabolism        Homework 6
+Thur, May 4      Analysis of metabolism           Homework 6
 *Jesse Bloom: molecular phylogenetics*
-------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 Tue, May 9       Molecular evolution
-Thur, May 11     Molecular evolution           Homework 7
+Thur, May 11     Molecular evolution              Homework 7
 Tue, May 16      Phylogenetic inference 
-Thur, May 18     Phylogenetic inference        Homework 8
+Thur, May 18     Phylogenetic inference           Homework 8
 *Frank DiMaio: protein structure*
-------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 Tue, May 23      Protein structure
-Thur, May 25     Macromolecular forcefields    Homework 9
+Thur, May 25     Macromolecular forcefields       Homework 9
 Tue, May 30      Optimization methods
-Thur, June 1     Nucleic acid structure        Homework 10
-================ ============================= ================= =========================
+Thur, June 1     Nucleic acid structure           Homework 10
+================ ================================ ================= =========================
+
+
+.. _`Homework 1`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#hw1
+.. _`Homework 2`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#hw2
+.. _`Transcription factor binding`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
+.. _`Functional element discovery`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
+.. _`Chromatin 3D modeling`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
