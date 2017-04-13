@@ -67,9 +67,9 @@ Course grade
 Class schedule
 ---------------
 
-================ ===================================== ================= =========================
-Date             Topic                                 Homework assigned Reading                    
-================ ===================================== ================= =========================
+================ ===================================== ===========================================
+Date             Topic                                 Homework assigned                    
+================ ===================================== ===========================================
 *Max Libbrecht: Gene regulation & epigenomics* 
 --------------------------------------------------------------------------------------------------
 Tue, March 28    `Transcription factor binding`_                    
@@ -79,7 +79,7 @@ Thur, April 6    `Chromatin 3D modeling`_              `Homework 2`_
 *Yi Yin: Bayesian statistics*
 --------------------------------------------------------------------------------------------------
 Tue, April 11    :download:`Bayesian stats <lec5.pdf>`
-Thur, April 13   Gibbs sampling                        Homework 3
+Thur, April 13   Gibbs sampling                        :download:`Homework 3 <hw3.zip>`
 Tue, April 18    Metropolis-Hastings
 Thur, April 20   Bayesian linear models                Homework 4
 *Adrian Verster: analysis of the microbiome*
@@ -103,7 +103,7 @@ Tue, May 23      Protein structure
 Thur, May 25     Macromolecular forcefields            Homework 9
 Tue, May 30      Optimization methods
 Thur, June 1     Nucleic acid structure                Homework 10
-================ ===================================== ================= =========================
+================ ===================================== ===========================================
 
 How to submit homeworks
 ------------------------
