@@ -79,7 +79,7 @@ Thur, April 6    `Chromatin 3D modeling`_              `Homework 2`_
 *Yi Yin: Bayesian statistics*
 --------------------------------------------------------------------------------------------------
 Tue, April 11    :download:`Bayesian stats <lec5.pdf>`
-Thur, April 13   Gibbs sampling                        :download:`Homework 3 <hw3.zip>`
+Thur, April 13   :download:`Gibbs sampling <lec6.pdf>` :download:`Homework 3 <hw3.zip>`
 Tue, April 18    Metropolis-Hastings
 Thur, April 20   Bayesian linear models                Homework 4
 *Adrian Verster: analysis of the microbiome*
