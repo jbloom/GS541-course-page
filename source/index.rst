@@ -80,8 +80,8 @@ Thur, April 6    `Chromatin 3D modeling`_              `Homework 2`_
 --------------------------------------------------------------------------------------------------
 Tue, April 11    :download:`Bayesian stats <lec5.pdf>`
 Thur, April 13   :download:`Gibbs sampling <lec6.pdf>` :download:`Homework 3 <hw3.zip>`
-Tue, April 18    Metropolis-Hastings
-Thur, April 20   Bayesian linear models                Homework 4
+Tue, April 18    :download:`Gibbs sampling <lec7.pdf>`
+Thur, April 20   :download:`Metropolis <lec8.pdf>`     :download:`Homework 4 <hw4.pdf>`
 *Adrian Verster: analysis of the microbiome*
 --------------------------------------------------------------------------------------------------
 Tue, March 28    `Transcription factor binding`_                    
