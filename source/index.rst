@@ -84,21 +84,18 @@ Tue, April 18    :download:`Gibbs sampling <lec7.pdf>`
 Thur, April 20   :download:`Metropolis <lec8.pdf>`     :download:`Homework 4 <hw4.pdf>`
 *Adrian Verster: analysis of the microbiome*
 --------------------------------------------------------------------------------------------------
-Tue, March 28    `Transcription factor binding`_                    
-Tue, April 25    16S and microbial abundance
-Thur, April 27   Comparing microbiomes                 Homework 5
+Tue, April 25    :download:`16S seq <lec9.pptx>`
+Thur, April 27   Comparing microbiomes                 :download:`Homework 5 <hw5.zip>`
 Tue, May 2       Strain variation
 Thur, May 4      Analysis of metabolism                Homework 6
 *Jesse Bloom: molecular phylogenetics*
 --------------------------------------------------------------------------------------------------
-Tue, March 28    `Transcription factor binding`_                    
 Tue, May 9       Molecular evolution
 Thur, May 11     Molecular evolution                   Homework 7
 Tue, May 16      Phylogenetic inference 
 Thur, May 18     Phylogenetic inference                Homework 8
 *Frank DiMaio: protein structure*
 --------------------------------------------------------------------------------------------------
-Tue, March 28    `Transcription factor binding`_                    
 Tue, May 23      Protein structure
 Thur, May 25     Macromolecular forcefields            Homework 9
 Tue, May 30      Optimization methods
