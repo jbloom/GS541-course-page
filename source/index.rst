@@ -85,7 +85,7 @@ Thur, April 20   :download:`Metropolis <lec8.pdf>`     :download:`Homework 4 <hw
 *Adrian Verster: analysis of the microbiome*
 --------------------------------------------------------------------------------------------------
 Tue, April 25    :download:`16S seq <lec9.pptx>`
-Thur, April 27   Comparing microbiomes                 :download:`Homework 5 <hw5.zip>`
+Thur, April 27   :download:`Microbiomes <lec10.zip>`   :download:`Homework 5 <hw5.zip>`
 Tue, May 2       Strain variation
 Thur, May 4      Analysis of metabolism                Homework 6
 *Jesse Bloom: molecular phylogenetics*
