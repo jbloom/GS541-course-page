@@ -87,7 +87,7 @@ Thur, April 20   :download:`Metropolis <lec8.pdf>`     :download:`Homework 4 <hw
 Tue, April 25    :download:`16S seq <lec9.pptx>`
 Thur, April 27   :download:`Microbiomes <lec10.zip>`   :download:`Homework 5 <hw5.zip>`
 Tue, May 2       :download:`Strains <lec11.pptx>`
-Thur, May 4      Analysis of metabolism                Homework 6
+Thur, May 4      Analysis of metabolism                :download:`Homework 6 <hw6.zip>`
 *Jesse Bloom: molecular phylogenetics*
 --------------------------------------------------------------------------------------------------
 Tue, May 9       Molecular evolution
