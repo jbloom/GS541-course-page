@@ -92,7 +92,7 @@ Thur, May 4      :download:`Metabolism <lec12.pptx>`   :download:`Homework 6 <hw
 --------------------------------------------------------------------------------------------------
 Tue, May 9       `Protein evolution`_
 Thur, May 11     `Substitution models`_                `Homework 7`_
-Tue, May 16      Phylogenetic inference 
+Tue, May 16      `Codon models`_ 
 Thur, May 18     Phylogenetic inference                Homework 8
 *Frank DiMaio: protein structure*
 --------------------------------------------------------------------------------------------------
@@ -113,5 +113,6 @@ Submit homeworks to the `Catalyst Tools Dropbox`_. Please submit your code along
 .. _`Chromatin 3D modeling`: http://noble.gs.washington.edu/~maxwl/gs541/2017/#slides
 .. _`Catalyst Tools Dropbox`: https://catalyst.uw.edu/collectit/dropbox/summary/jdbloom/40039
 .. _`Protein evolution`: http://jbloom.github.io/GenomeSciences541/lecture_1.html
-.. _`Substitution models`: http://jbloom.github.io/GenomeSciences541/lecture_2.html#1
+.. _`Substitution models`: http://jbloom.github.io/GenomeSciences541/lecture_2.html
+.. _`Codon models`: http://jbloom.github.io/GenomeSciences541/lecture_3.html
 .. _`Homework 7`: https://github.com/jbloom/GenomeSciences541/tree/gh-pages/source/homework_1
