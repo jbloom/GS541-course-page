@@ -116,5 +116,5 @@ Submit homeworks to the `Catalyst Tools Dropbox`_. Please submit your code along
 .. _`Substitution models`: http://jbloom.github.io/GenomeSciences541/lecture_2.html
 .. _`Codon models`: http://jbloom.github.io/GenomeSciences541/lecture_3.html
 .. _`Homework 7`: https://github.com/jbloom/GenomeSciences541/tree/gh-pages/source/homework_1
+.. _`More phylogenetics`: https://github.com/jbloom/GenomeSciences541/lecture_4.html
 .. _`Homework 8`: https://github.com/jbloom/GenomeSciences541/blob/gh-pages/source/homework_2/homework_2.rst
-.. _`More phylogenetics`: https://github.com/jbloom/GenomeSciences541/blob/gh-pages/source/homework_2/homework_2.rst
