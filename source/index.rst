@@ -96,10 +96,10 @@ Tue, May 16      `Codon models`_
 Thur, May 18     `More phylogenetics`_                 `Homework 8`_
 *Frank DiMaio: protein structure*
 --------------------------------------------------------------------------------------------------
-Tue, May 23      Protein structure
-Thur, May 25     Macromolecular forcefields            Homework 9
-Tue, May 30      Optimization methods
-Thur, June 1     Nucleic acid structure                Homework 10
+Tue, May 23      `see DiMaio website`_
+Thur, May 25     `see DiMaio website`_                 `see DiMaio website`_
+Tue, May 30      `see DiMaio website`_
+Thur, June 1     `see DiMaio website`_                 `see DiMaio website`_
 ================ ===================================== ===========================================
 
 How to submit homeworks
@@ -118,3 +118,4 @@ Submit homeworks to the `Catalyst Tools Dropbox`_. Please submit your code along
 .. _`Homework 7`: https://github.com/jbloom/GenomeSciences541/tree/gh-pages/source/homework_1
 .. _`More phylogenetics`: http://jbloom.github.io/GenomeSciences541/lecture_4.html
 .. _`Homework 8`: https://github.com/jbloom/GenomeSciences541/blob/gh-pages/source/homework_2/homework_2.rst
+.. _`see DiMaio website`: http://faculty.washington.edu/dimaio/wordpress/genome-541/
